@@ -1,6 +1,3 @@
-Got it! I'll include that Python 3.8.0 is used for this project in the README:
-
----
 
 # Sam's AI-Powered Audio Enhancement Tool v1.0
 
