@@ -41,7 +41,7 @@ Before you can use this tool, you'll need to install the following dependencies:
 Run the following command to start the Gradio interface:
 
 ```bash
-python app.py
+python SAET_GUI.py
 ```
 
 The tool will launch a local web server, and you can access the user interface via your web browser. If you wish to share the interface externally, the app provides a shareable link.
