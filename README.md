@@ -25,7 +25,7 @@ Before you can use this tool, you'll need to install the following dependencies:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/audio-enhancement-tool.git
+    git clone https://github.com/sam4muzix/audio-enhancement-tool.git 
     cd audio-enhancement-tool
     ```
 
