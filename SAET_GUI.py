@@ -176,7 +176,7 @@ def gradio_interface():
 
         with gr.Column(elem_classes="container"):
             gr.Markdown("<div class='title'>Sam's AI-Powered Audio Enhancement Tool v1.0</div>")
-            gr.Markdown("<div class='section'>Tailor-Made for Mirchi Promo Producers and Audio Innovators: Revolutionize Your Workflow and Save Time!</div>")
+            gr.Markdown("<div class='section'>Tailor-Made for Sound Designers and Audio Innovators: Revolutionize Your Workflow and Save Time!</div>")
 
             file_input = gr.File(label="Upload Audio Files", type="binary", file_count="multiple")
             duration_input = gr.Slider(minimum=1, maximum=60, value=15, step=1, label="Target Duration (seconds)")
