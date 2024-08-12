@@ -76,7 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Credits
 
 Created by [Shyam L Raj](https://github.com/sam4muzix).
-
----
-
-This README should now accurately reflect your project setup.
