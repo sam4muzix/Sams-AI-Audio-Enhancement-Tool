@@ -1,7 +1,7 @@
 
 # Sam's AI-Powered Audio Enhancement Tool v1.0
 
-Welcome to **Sam's AI-Powered Audio Enhancement Tool**, a custom-built solution designed specifically for audio producers, particularly those working on *Mirchi promos* and other time-sensitive audio projects. This tool streamlines your workflow by automatically processing audio files, removing silences, and adjusting their duration to meet your exact needs.
+Welcome to **Sam's AI-Powered Audio Enhancement Tool**, a custom-built solution designed specifically for audio producers, particularly those working on podcasts, audio recs and other time-sensitive audio projects. This tool streamlines your workflow by automatically processing audio files, removing silences, and adjusting their duration to meet your exact needs.
 
 ## Features
 
